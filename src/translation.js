@@ -1,0 +1,51 @@
+
+export const translations = {
+  en: {
+    home: 'Home',
+    movies: 'Movies',
+    tvShows: 'TV Shows',
+    sports: 'Sports',
+    live: 'Live',
+    settings: 'Settings',
+  },
+  fr: {
+    home: 'Accueil',
+    movies: 'Films',
+    tvShows: 'Séries TV',
+    sports: 'Sports',
+    live: 'En direct',
+    settings: 'Paramètres',
+  },
+  de: {
+    home: 'Startseite',
+    movies: 'Filme',
+    tvShows: 'Fernsehserien',
+    sports: 'Sport',
+    live: 'Live',
+    settings: 'Einstellungen',
+  },
+  ru: {
+    home: 'Главная',
+    movies: 'Фильмы',
+    tvShows: 'Телешоу',
+    sports: 'Спорт',
+    live: 'Прямой эфир',
+    settings: 'Настройки',
+  },
+  es: {
+    home: 'Inicio',
+    movies: 'Películas',
+    tvShows: 'Programas de TV',
+    sports: 'Deportes',
+    live: 'En vivo',
+    settings: 'Configuración',
+  },
+  zh: {
+    home: '首页',
+    movies: '电影',
+    tvShows: '电视剧',
+    sports: '体育',
+    live: '直播',
+    settings: '设置',
+  },
+};
