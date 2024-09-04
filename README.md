@@ -1,3 +1,26 @@
+# Hello, I am Sri Charana Sai Kireeti Thallam Venkata 
+## I built this application to Create an application which has 5 menu option and settings
+
+1. Menu options:
+	 	Home
+	 	Movies
+	 	TV Shows
+		Sports
+		Live
+
+2. Settings
+
+Settings screen should have Language settings option in drop down. On selection of this drop down following languages should be displayed
+French, 
+German 
+Russian, 
+Spanish, 
+Chinese.
+  On selection of a language, Menu items should convert string in selected language
+#
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
