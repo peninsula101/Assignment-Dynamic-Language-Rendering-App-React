@@ -1,6 +1,8 @@
 # Hello, I am Sri Charana Sai Kireeti Thallam Venkata 
 ## I built this application to Create an application which has 5 menu option and settings
 
+# https://dynamic-language-rendering-app.vercel.app/home
+
 1. Menu options:
 	 	Home
 	 	Movies
